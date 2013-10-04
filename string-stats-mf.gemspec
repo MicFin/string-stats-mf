@@ -28,7 +28,8 @@ Gem::Specification.new do |s|
     "VERSION",
     "lib/string-stats-mf.rb",
     "spec/spec_helper.rb",
-    "spec/string-stats-mf_spec.rb"
+    "spec/string-stats-mf_spec.rb",
+    "string-stats-mf.gemspec"
   ]
   s.homepage = "http://github.com/MicFin/string-stats-mf"
   s.licenses = ["MIT"]
